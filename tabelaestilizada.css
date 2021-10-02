@@ -1,0 +1,30 @@
+table {
+    font-style: normal;
+    
+}
+
+#cabecalho {
+   background-color: #bb86fc; 
+   color: white;
+   font-size: 20px;
+   
+   
+}
+
+.produto {
+    background-color: #424250;
+    color: white;
+    font-size: 15px;
+}
+
+#cabecalho2 {
+    background-color: #00c4b4;
+    color: white;
+    font-size: 20px;
+}
+
+.produto2 {
+    background-color: #424250;
+    color: white;
+    font-size: 15px;
+}
